@@ -27,7 +27,6 @@
         "!android/build",
         "ios",
         "!ios/build",
-        "dist",
         "RNFastImage.podspec"
     ],
     "scripts": {
